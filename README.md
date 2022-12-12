@@ -36,6 +36,7 @@ On the way to collect BurpExtensions
 <table>
 <tr><td>Atom One Dark</td>
 <td>
+
 ![Atom One Dark Customizer](static/img/AtomOneDarkCustomizer.png)
 </td>
 <td>
